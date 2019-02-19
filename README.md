@@ -13,3 +13,6 @@ List the customer name, phone and total amount of all customers with credit limi
 
 # Q4
 List all the order number, order date, product code, product name, quantity ordered, price each for the customer with customer number 1001.
+
+
+# All Answer are in sql.txt
